@@ -1,5 +1,8 @@
 All numbers in Millions
 
+
+
+
 |                   | TTA(2024/6/10)          | 2024 YoY | 2023/12/31           | 2023 YoY | 2022/12/31           | 2022 YoY | 2021/12/31           |
 |-------------------|---------------------|----------|----------------------|----------|----------------------|----------|----------------------|
 | **Revenue**       | 91.8 (100.0%)       | -0.33%   | 91.5 (100.0%)        | 5.91%    | 86.4 (100.0%)        | 8.68%    | 79.5 (100.0%)        |
@@ -18,3 +21,25 @@ All numbers in Millions
 | **Market Cap**    | 235.14              | -        | 233.51               | -        | 251.1                | -        | 240.18               |
 | **PBR**           | None                | -        | 12.5                 | -        | 14.5                 | -        | 14.0                 |
 | **PER**           | 25.6                | -        | 25                  | -        | 28                  | -        | 31                  |
+
+
+
+# Inventory Rate Calculation
+
+## Formula
+```
+Inventory Rate = (Inventory / 1 Month Sales) * 100
+```
+
+**100% Inventory Rate** means the inventory is equal to one month's sales.
+
+## Data
+
+| Year   | Inventory | 1 Month Sales | Inventory Rate |
+|--------|-----------|---------------|----------------|
+| 2023   | 5.3       | 7.6           | 69.74%         |
+| 2022   | 5.2       | 7.2           | 72.2%          |
+| 2021   | 4.3       | 6.6           | 65.1%          |
+
+## Analysis
+The inventory is insufficient compared to the sales amount for one month.
